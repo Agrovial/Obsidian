@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4b7254e7e7269d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas de leitura/Notas rápidas/Trabalho e moralidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Ficha. Karl Marx. O Capital. Boitempo Editorial.md",
+                "file": "Notas de leitura/Notas rápidas/Trabalho e moralidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Ficha. Karl Marx. O Capital. Boitempo Editorial.md",
+                "file": "Notas de leitura/Notas rápidas/Trabalho e moralidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Ficha. Karl Marx. O Capital. Boitempo Editorial.md"
+                "file": "Notas de leitura/Notas rápidas/Trabalho e moralidade.md"
               }
             }
           }
@@ -146,6 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e613332a94facb78",
-  "lastOpenFiles": []
+  "active": "a5c30cb922c867e1",
+  "lastOpenFiles": [
+    "Templates/Ficha. Karl Marx. O Capital. Boitempo Editorial.md",
+    "Notas de leitura/Notas rápidas/Trabalho e moralidade.md"
+  ]
 }
