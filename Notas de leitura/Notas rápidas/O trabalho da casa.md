@@ -1,0 +1,3 @@
+#tese #configurações_de_casas 
+
+Em uma passagem de minha dissertação [[REF. Nathan Virgilio. Pensa que é só dar de-comer]] p. 58-59 eu falo do trabalho desempenhado pelos homens na casa e, mais especialmente, sobre a casa. Interessante que certos serviços de manutenção da casa são feitos pelos homens da casa. Lembro que quando o filho de Dona Zilda veio de Uberlândia durante o natal ele se ocupou com alguns serviços desse tipo. 

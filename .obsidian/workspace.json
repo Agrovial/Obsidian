@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "0ba9afee4d55604b",
+    "type": "split",
+    "children": [
+      {
+        "id": "314749016e68109b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a82986c26ada4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas de leitura/Notas rápidas/Cotidiano e contra-cotidiano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6783a8afc4467dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33cdb8c2160476c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "065a491800d3cd13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd19d639f0d6d099",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e65fb89d680886e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7d6d0e35d6a2fb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "75be0414be0e304d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9216a8d831fb2ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas de leitura/Notas rápidas/Cotidiano e contra-cotidiano.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00b117a8e45d3707",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas de leitura/Notas rápidas/Cotidiano e contra-cotidiano.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f06068d917250dd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cb3cc589d9647a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas de leitura/Notas rápidas/Cotidiano e contra-cotidiano.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d8a82986c26ada4e",
+  "lastOpenFiles": [
+    "Referências/REF. SIMMEL, Georg. The Sociology of Conflict 1.md",
+    "Referências/REF. Schneider, David M. A Critique of the Study of Kinship.md",
+    "Referências/REF. Norbert Elias. O Processo Civilizador.md",
+    "Referências/REF. Nathan Virgilio. Pensa que é só dar de-comer.md",
+    "Referências/REF. Max Weber. Ética Protestante e o Espírito do Capitalismo.md"
+  ]
+}

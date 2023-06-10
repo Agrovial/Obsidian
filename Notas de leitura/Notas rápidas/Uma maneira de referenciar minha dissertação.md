@@ -1,0 +1,3 @@
+#tese 
+
+Uma maneira de referenciar minha dissertação na minha tese: trazer essas referências como lembranças. Recordo-me, lembro-me, isso me remete...

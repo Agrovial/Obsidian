@@ -1,0 +1,3 @@
+#tese 
+
+Um grande problema da descrição é que ela tende a engessar o que é descrito. Isso se torna particularmente problemático quando se parte de uma tese da maleabilidade e da volatilidade das coisas. Por exemplo, em minha dissertação [[REF. Nathan Virgilio. Pensa que é só dar de-comer]] p. 55. (ver nota: [[A instabilidade das casas]] ) tento descrever as casas goisianas, porém, a descrição parece dotar essas casas de uma dureza que o próprio argumento da dissertação contradiz. 

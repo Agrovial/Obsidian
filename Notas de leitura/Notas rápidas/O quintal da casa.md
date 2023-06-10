@@ -1,0 +1,1 @@
+Ë bem interessante explorar sobre o que o quintal tem a dizer acerca da casa como um todo e de quem vive nela. [[REF. Nathan Virgilio. Pensa que é só dar de-comer]] 55
