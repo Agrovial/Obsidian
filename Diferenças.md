@@ -1,0 +1,1 @@
+a que tipo de diferenças as pessoas do Alegre estão mais atentas? No caso do Caribe, como mostrou [[Mintz, Sidney. Houses and Yards among Caribbean Peasantries.]] as pessoas estão mais preocupadas, por exemplos, nas diferenças entre o estilo de vida urbano e rural do que em saber se uma ou outra palavra ou traço de sua cultura é de origem africana ou indígena. 

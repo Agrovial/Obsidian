@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","text":"PRINCÍPIOS CRIATIVOS","id":"8cbd675e562dfb22","x":-820,"y":-100,"width":220,"height":80},
+		{"type":"text","text":"produção de filhos","id":"12bc51164f4184e4","x":-440,"y":-193,"width":250,"height":60},
+		{"type":"text","text":"[[Ficha. Lúcia Hussak van Velthem. MULHERES DE CERA, ARGILA E ARUMÃ. 2009]]","id":"8302e913f3342f6e","x":-820,"y":-320,"width":629,"height":80,"color":"6"},
+		{"type":"text","text":"produção de alimentos","id":"3a16d5a22315328c","x":-440,"y":-105,"width":250,"height":60},
+		{"type":"text","text":"produção de bens materiais","id":"12a68dba1276e9a4","x":-440,"y":-20,"width":250,"height":80}
+	],
+	"edges":[
+		{"id":"e9b76cc7867df8fa","fromNode":"8cbd675e562dfb22","fromSide":"right","toNode":"12bc51164f4184e4","toSide":"left"},
+		{"id":"317c5f5dc657c596","fromNode":"8cbd675e562dfb22","fromSide":"right","toNode":"3a16d5a22315328c","toSide":"left"},
+		{"id":"870fa9541be34b5f","fromNode":"8cbd675e562dfb22","fromSide":"right","toNode":"12a68dba1276e9a4","toSide":"left"}
+	]
+}

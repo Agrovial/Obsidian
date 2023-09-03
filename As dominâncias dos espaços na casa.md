@@ -1,0 +1,1 @@
+Como demonstra [[Mintz, Sidney. Houses and Yards among Caribbean Peasantries.]] no contexto da população rural caribenha, a casa, o quintal e a cozinha são domínios femininos. Coisa semelhante se passa no Alegre e em situações rurais brasileiras. 

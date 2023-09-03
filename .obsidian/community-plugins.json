@@ -1,4 +1,6 @@
 [
   "obsidian-style-settings",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export"
 ]

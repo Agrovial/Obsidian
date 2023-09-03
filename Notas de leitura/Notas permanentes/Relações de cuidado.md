@@ -1,0 +1,1 @@
+A dissertação tem como tema de fundo a criação e, portanto, o cuidado de animais, mas sempre tendo em conta o cuidado com crianças, velhos, jovens e da própria casa. A um só tempo você cria casas, pessoas e relações. [[Nathan Virgilio. Pensa que é só dar de-comer]] p. 122

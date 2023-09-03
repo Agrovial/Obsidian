@@ -1,0 +1,1 @@
+O que se busca, qual resultado se obtém de uma boa criação, de bons cuidados?  No caso do Góis é cada cabrito que nasce, cada casa levantada, cada almoço dado. E no Alegre? [[Nathan Virgilio. Pensa que é só dar de-comer]] p. 123 

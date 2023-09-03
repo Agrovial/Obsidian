@@ -1,9 +1,9 @@
 
-<b> Tags: </b> #Fichamento 
+<b> Tags: </b> 
 
 <b> Palavras-Chave: </b> <mark class="purple">  fichamento </mark>  <mark class="blue">  Otimização de leitura  </mark>  <mark class="mint">  mapeamento do texto  </mark> <mark class="cyan">  template  </mark>
 
-Fichamento de [[REF. Norbert Elias. O Processo Civilizador]]
+Fichamento de [[Norbert Elias. O Processo Civilizador]]
 ___
 <p style="text-align: justify">“O processo civilizador constitui uma mudança na conduta e sentimentos humanos rumo a uma direção”. 193. </p>
 _ _ _

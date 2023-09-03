@@ -1,0 +1,1 @@
+será que  há alguma lógica de dispersão de casas no território no alegre assim como observa mintz [[Mintz, Sidney. Houses and Yards among Caribbean Peasantries.]] na população rural caribenha?
