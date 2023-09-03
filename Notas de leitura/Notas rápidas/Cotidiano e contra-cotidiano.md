@@ -1,1 +1,0 @@
-Há o passo monótono do cotidiano e as situações e atos que tiram tiram do continuado:*contar histórias, maldizências, aperreio* [[REF. Nathan Virgilio. Pensa que é só dar de-comer]] p. 66

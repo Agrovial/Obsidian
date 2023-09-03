@@ -4,35 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "c911f171111aa039",
+        "id": "d5ddd009edafeff8",
         "type": "tabs",
         "children": [
           {
-            "id": "e613332a94facb78",
+            "id": "077af291dd19ea55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ficha. Karl Marx. O Capital. Boitempo Editorial.md",
+                "file": "Referências/Aron, Raymond. Les Étapes de la Pensée Sociologique.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e4b7254e7e7269d9",
+            "id": "df63fed560c4cc96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de leitura/Notas rápidas/Trabalho e moralidade.md",
+                "file": "Referências/Ferdinand, Malcom. Uma Ecologia Decolonial..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f21bbea34d9760f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mapas Mentais/Estrutura da Tese.canvas",
+                "viewState": {
+                  "x": -463.23586203220475,
+                  "y": -1042.0630702161743,
+                  "zoom": -1.6666666666666667
+                }
+              }
+            }
+          },
+          {
+            "id": "a19afa14396491a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referências/Norman, Ajari. La dignité ou la mort..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tese",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de leitura/Notas rápidas/Trabalho e moralidade.md",
+                "file": "Mapas Mentais/Estrutura da Tese.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de leitura/Notas rápidas/Trabalho e moralidade.md",
+                "file": "Mapas Mentais/Estrutura da Tese.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de leitura/Notas rápidas/Trabalho e moralidade.md"
+                "file": "Mapas Mentais/Estrutura da Tese.canvas"
               }
             }
           }
@@ -159,9 +186,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5c30cb922c867e1",
+  "active": "7f21bbea34d9760f",
   "lastOpenFiles": [
-    "Templates/Ficha. Karl Marx. O Capital. Boitempo Editorial.md",
-    "Notas de leitura/Notas rápidas/Trabalho e moralidade.md"
+    "Gravação - Bad Parenting..canvas",
+    "Referências/REF. Philippe Perrenoud e a  Teoria das Competências..md",
+    "Referências/Ferdinand, Malcom. Uma Ecologia Decolonial..md",
+    "Notas de leitura/Notas permanentes/dilúvio da modernidade.md",
+    "As dominâncias dos espaços na casa.md",
+    "Diferenças.md",
+    "dispersal of houses.md",
+    "Gravação - Bad parenting.md",
+    "Noção estendida de casa.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Referências/Norman, Ajari. La dignité ou la mort..md",
+    "Referências/Aron, Raymond. Les Étapes de la Pensée Sociologique.md",
+    "Mapas Mentais/Estrutura da Tese.canvas",
+    "Referências/Valter Silvério, História Geral da África XVI - XX.md",
+    "Referências/Mayblin, Maya . Gender, Catholicism, and Morality in Brazil - Virtuous Husbands, Powerful Wives..md",
+    "Referências/Nathan Virgilio. Pensa que é só dar de-comer.md",
+    "Referências/Nathan Virgilio. Brincando e ajudando entre quintais e terreiros do povo quilombola de Alegre-MG.md",
+    "Referências/Norbert Elias. O Processo Civilizador.md",
+    "Referências/Pina Cabral. Filhos de Adão, filhas de Eva..md",
+    "Referências/Schneider, David M. A Critique of the Study of Kinship.md",
+    "Referências/SIMMEL, Georg. The Sociology of Conflict 1.md",
+    "Referências/Max Weber. Ética Protestante e o Espírito do Capitalismo.md",
+    "Referências/Luhmann. Social Systems, 1984..md",
+    "Referências/REF. Lúcia Hussak Van Velthem. MULHERES DE CERA, ARGILA E ARUMÃ.md",
+    "Referências/Mintz, Sidney. Houses and Yards among Caribbean Peasantries..md",
+    "Referências/Marcelin, Louis. A LINGUAGEM DA CASA ENTRE OS NEGROS NO RECÔNCAVO BAIANO, 1999.md",
+    "Referências/Karl Marx. O Capital. Boitempo Editorial..md",
+    "Untitled",
+    "Mapas Mentais/Princípios Criativos dos Wayana.canvas",
+    "Pasted image 20230710094600.png",
+    "Tese/Parte 01",
+    "Tese/Parte 01/Capítulo 01",
+    "Mapas Mentais",
+    "~$ganação.docx",
+    "Enganação.docx"
   ]
 }

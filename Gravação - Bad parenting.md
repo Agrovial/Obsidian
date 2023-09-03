@@ -1,0 +1,2 @@
+-> Observar como as conversas vão mudando, o andar da conversa, intervenções. Quem fala. As crianças estão onde? 
+-> Fazer mapeamento dos assuntos. 

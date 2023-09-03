@@ -1,0 +1,1 @@
+Durante meu trabalho de campo que resultou em minha dissertação observei algumas justaposições ou similaridades na criação de crianças e de animais. Um exemplo está na questão dos remédios. Os remédios que eram administrados as crianças acabavam sendo, por vezes, administrados também aos animais. [[Nathan Virgilio. Pensa que é só dar de-comer]]

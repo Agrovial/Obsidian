@@ -1,0 +1,1 @@
+quando as pessoas contam o que se poderia chamar de histórias da comunidade, elas estão contanto histórias ou trazendo lembranças sobre casas. Elas relatam cotidianos em torno de [[casas entre casas]].

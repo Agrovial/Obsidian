@@ -1,0 +1,1 @@
+Sidney Mintz [[Mintz, Sidney. Houses and Yards among Caribbean Peasantries.]] [[Mintz, Sidney. Houses and Yards among Caribbean Peasantries.]] traz um panorama das preferências culinárias no caribe. Seria interessante pensar como isso ocorre no Alegre. O que era servido no dia-a-dia? O que era servido em ocasiões especiais, considerando também bebidas alcóolicas? 

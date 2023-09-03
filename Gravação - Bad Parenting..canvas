@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"type":"text","text":"**ATO DESENCADEADOR:** ATO OU ASSUNTO QUE MUDA O RUMO DA CONVERSA OU INTRODUZ NOVO ASSUNTO","id":"20cc28e06496c013","x":-1060,"y":-159,"width":360,"height":170,"color":"3"},
+		{"type":"text","text":"**DISCUSSÃO:** PONTO TENSÃO OU DESENTENDIMENTO","id":"d66e5a9b32e7a348","x":-1060,"y":61,"width":360,"height":100,"color":"1"},
+		{"type":"text","text":"**Gravação - Bad Parenting.**\n\n<font color = \"green\"> Local:</font>  sala de casa da casa de Dona Zilda.\n<font color = \"green\">Horário: </font> meio-dia, almoço.\n<font color = \"green\" >Participantes iniciais: </font>Dona Zilda, Seu Raul, Roca, Fal e eu.","id":"18cfbfe0e39569dd","x":-600,"y":-110,"width":460,"height":241,"color":"5"},
+		{"type":"text","text":"Seu Raul aproveita para tirar onda com kauan","id":"72a2bcc7612f5b30","x":553,"y":460,"width":250,"height":129},
+		{"type":"text","text":"alguém chega na casa de Dona Nêga","id":"f14b59846837211a","x":635,"y":733,"width":266,"height":87,"color":"3"},
+		{"type":"text","text":"Kauan chega para pegar o capacete","id":"9e7b3aeebda1287c","x":577,"y":9,"width":258,"height":91,"color":"3"},
+		{"type":"text","text":"Seu Raul e Dona Zilda oferecem almoço a Kauan, que acaba voltando à cozinha para almoçar. ","id":"4a63cfa970581090","x":976,"y":54,"width":319,"height":157},
+		{"type":"text","text":"Benjamin faz um comentário de que kauan está feio","id":"96063de2ad7c5521","x":400,"y":211,"width":306,"height":129},
+		{"type":"text","text":"Casamento de Ney. ","id":"cc7fbba11cd32db2","x":240,"y":-36,"width":243,"height":76},
+		{"type":"text","text":"Dona Zilda e Roca se recordam de como a festa foi boa. Roca fala que hoje em dia já não há festas tão boas.","id":"c576004447586947","x":57,"y":-320,"width":403,"height":140},
+		{"type":"text","text":"Como foi a ida e a vinda. Com quem foi e como","id":"9f502e246944aa10","x":410,"y":-660,"width":296,"height":82},
+		{"type":"text","text":"Cristina aparece na sala. Seu Raul faz piada dela ter acordado tarde.","id":"c5ab07ae9d3ee08c","x":459,"y":-520,"width":346,"height":120},
+		{"type":"text","text":"Dona Zilda se maldiz. Ela não gostou da visita inesperada","id":"f2a23f09976244d8","x":976,"y":880,"width":298,"height":128},
+		{"type":"text","text":"Percebe-se que não é um crente","id":"e2f14b74878ab529","x":1380,"y":916,"width":278,"height":92},
+		{"type":"text","text":"Seu Raul faz comentário sobre quem é a pessoa que veio procurar ela de carro. Dona Zilda se aborrece por Seu Raul estar querendo se meter na vida alheia.","id":"227829a4941d54c3","x":1840,"y":726,"width":429,"height":188,"color":"1"},
+		{"id":"6d2a45d7973e19b4","x":1440,"y":-20,"width":296,"height":180,"type":"text","text":"Uma família \"desornetiada\". Dona Zilda conta um caso de uma família do Alegre onde os laços de parentesco fogem do padrão. "}
+	],
+	"edges":[
+		{"id":"45360662c9749711","fromNode":"cc7fbba11cd32db2","fromSide":"right","toNode":"9e7b3aeebda1287c","toSide":"left"},
+		{"id":"c25dc682e4483f3b","fromNode":"9e7b3aeebda1287c","fromSide":"bottom","toNode":"96063de2ad7c5521","toSide":"top"},
+		{"id":"4bd63f95b0f17084","fromNode":"96063de2ad7c5521","fromSide":"bottom","toNode":"72a2bcc7612f5b30","toSide":"left"},
+		{"id":"a5826e2e26ed5fe9","fromNode":"72a2bcc7612f5b30","fromSide":"bottom","toNode":"f14b59846837211a","toSide":"top"},
+		{"id":"df5cb11ce967438c","fromNode":"f14b59846837211a","fromSide":"right","toNode":"f2a23f09976244d8","toSide":"left"},
+		{"id":"57276db26a8cc3e4","fromNode":"f2a23f09976244d8","fromSide":"right","toNode":"e2f14b74878ab529","toSide":"left"},
+		{"id":"52e6664deaeea1fd","fromNode":"e2f14b74878ab529","fromSide":"right","toNode":"227829a4941d54c3","toSide":"left"},
+		{"id":"d077f13bbac786dc","fromNode":"9e7b3aeebda1287c","fromSide":"right","toNode":"4a63cfa970581090","toSide":"left"},
+		{"id":"d1710f463492e27f","fromNode":"18cfbfe0e39569dd","fromSide":"right","toNode":"cc7fbba11cd32db2","toSide":"left"},
+		{"id":"e31294d999638ae9","fromNode":"cc7fbba11cd32db2","fromSide":"top","toNode":"c576004447586947","toSide":"bottom"},
+		{"id":"7bb4aa48a7daacdd","fromNode":"c576004447586947","fromSide":"top","toNode":"9f502e246944aa10","toSide":"left"},
+		{"id":"5192d947b020e6b0","fromNode":"c576004447586947","fromSide":"top","toNode":"c5ab07ae9d3ee08c","toSide":"bottom"},
+		{"id":"1cfd9424fe39c318","fromNode":"4a63cfa970581090","fromSide":"right","toNode":"6d2a45d7973e19b4","toSide":"left"}
+	]
+}

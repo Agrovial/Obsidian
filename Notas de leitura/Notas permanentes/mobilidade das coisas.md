@@ -1,0 +1,4 @@
+
+
+"a pia que descrevo é como a presença do próprio quintal na cozinha". A casa tem seus cômodos delimitados espacialmente, mas também essa divisão pode ser subvertida ou enfrentada. Animais devem permanecer no quintal, mas nem sempre o fazem. As crianças devem brincar no terreiro ou no quintal, mas teimam em brincar nos quartos e na sala. Objetos que deveriam ficar na cozinha são, por vezes encontrados na sala ou no quintal etc. [[Nathan Virgilio. Pensa que é só dar de-comer]]
+Como se vê na descrição acima, as coisas teimam em ficar fora do lugar. E boa parte do dia de uma dona de casa, muito do que envolve [[o trabalho da casa]], ou do trabalho que a casa dá tem a ver com devolver e manter coisas e seres em seus devidos lugares.

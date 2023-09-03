@@ -1,0 +1,2 @@
+A visão entre os Wayana é o principal meio de obtenção de conhecimento. Vejo aqui a possibilidade de fazer um link com o método de pesquisa que desenvolvi durante a dissertação [[Nathan Virgilio. Pensa que é só dar de-comer]]: *ajuda e espia*. O ato de observar, de prestar atenção, de ficar perto e ver como ato pedagógico. Seria interessante observar essas coisas em meus diários de campo mais recentes. 
+[Dissertação](obsidian://open?vault=Obsidian&file=Refer%C3%AAncias%2FREF.%20Nathan%20Virgilio.%20Pensa%20que%20%C3%A9%20s%C3%B3%20dar%20de-comer)

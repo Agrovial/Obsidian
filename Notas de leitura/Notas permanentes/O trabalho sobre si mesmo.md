@@ -1,0 +1,3 @@
+> Agindo sobre a natureza externa e modificando-a por meio desse movimento, ele modifica, ao mesmo tempo, sua própria natureza. p. 326 [[Karl Marx. O Capital. Boitempo Editorial.]]
+
+Essa coisa do trabalho agir para ter efeitos transformadores no próprio indivíduo que trabalha me remete ao trabalho de criação (de humanos e não-humanos). A pessoa que cria age sobre aquele que é criado e o próprio trabalho de criação age (retro-age) sobre quem cria, principalmente de um ponto de vista moral, no caso de minha análise das relações de criação em minha dissertação [[Nathan Virgilio. Pensa que é só dar de-comer]]
