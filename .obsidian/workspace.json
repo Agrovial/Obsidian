@@ -13,53 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Referências/Aron, Raymond. Les Étapes de la Pensée Sociologique.md",
+                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df63fed560c4cc96",
+            "id": "40db5a597aa29b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Referências/Ferdinand, Malcom. Uma Ecologia Decolonial..md",
+                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7f21bbea34d9760f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mapas Mentais/Estrutura da Tese.canvas",
-                "viewState": {
-                  "x": -463.23586203220475,
-                  "y": -1042.0630702161743,
-                  "zoom": -1.6666666666666667
-                }
-              }
-            }
-          },
-          {
-            "id": "a19afa14396491a0",
+            "id": "793b0d3a2082bc02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Referências/Norman, Ajari. La dignité ou la mort..md",
+                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapas Mentais/Estrutura da Tese.canvas",
+                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapas Mentais/Estrutura da Tese.canvas",
+                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,11 +149,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapas Mentais/Estrutura da Tese.canvas"
+                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md"
+              }
+            }
+          },
+          {
+            "id": "a44f03dd5a9b1bf4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,8 +181,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f21bbea34d9760f",
+  "active": "077af291dd19ea55",
   "lastOpenFiles": [
+    "consciência coletiva.md",
+    "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
+    "Tese/Parte 01/Capítulo 01/P01-CAP01-01-As primeiras casas.md",
+    "Max Weber. Classe, Estamento e Partido..md",
+    "Referências/Aron, Raymond. Les Étapes de la Pensée Sociologique.md",
+    "Referências/Bateson, Gregory . Steps to an ecology of mind.md",
+    "Desejo de bem-estar material.md",
+    "Noção estendida de casa.md",
     "Gravação - Bad Parenting..canvas",
     "Referências/REF. Philippe Perrenoud e a  Teoria das Competências..md",
     "Referências/Ferdinand, Malcom. Uma Ecologia Decolonial..md",
@@ -196,11 +199,8 @@
     "Diferenças.md",
     "dispersal of houses.md",
     "Gravação - Bad parenting.md",
-    "Noção estendida de casa.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Referências/Norman, Ajari. La dignité ou la mort..md",
-    "Referências/Aron, Raymond. Les Étapes de la Pensée Sociologique.md",
     "Mapas Mentais/Estrutura da Tese.canvas",
     "Referências/Valter Silvério, História Geral da África XVI - XX.md",
     "Referências/Mayblin, Maya . Gender, Catholicism, and Morality in Brazil - Virtuous Husbands, Powerful Wives..md",
@@ -212,10 +212,6 @@
     "Referências/SIMMEL, Georg. The Sociology of Conflict 1.md",
     "Referências/Max Weber. Ética Protestante e o Espírito do Capitalismo.md",
     "Referências/Luhmann. Social Systems, 1984..md",
-    "Referências/REF. Lúcia Hussak Van Velthem. MULHERES DE CERA, ARGILA E ARUMÃ.md",
-    "Referências/Mintz, Sidney. Houses and Yards among Caribbean Peasantries..md",
-    "Referências/Marcelin, Louis. A LINGUAGEM DA CASA ENTRE OS NEGROS NO RECÔNCAVO BAIANO, 1999.md",
-    "Referências/Karl Marx. O Capital. Boitempo Editorial..md",
     "Untitled",
     "Mapas Mentais/Princípios Criativos dos Wayana.canvas",
     "Pasted image 20230710094600.png",

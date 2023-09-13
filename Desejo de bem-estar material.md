@@ -1,0 +1,1 @@
+Chama atenção que [[Durkheim, A divisão do trabalho social.]] enxergue o bem-estar material como um impulso à divisão social do trabalho.
