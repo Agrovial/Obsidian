@@ -8,27 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "077af291dd19ea55",
+            "id": "a9ab44afc2332ff7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b54e55e7c5421f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notas de leitura/Notas permanentes/denominações nativas.md",
-                "mode": "source",
-                "source": false
+                "file": "Mapas Mentais/Estrutura da Tese.canvas",
+                "viewState": {
+                  "x": 120.58015973145554,
+                  "y": -1479.4083461475666,
+                  "zoom": -1.0280216478434872
+                }
               }
             }
           },
           {
-            "id": "f5b5f95eedc19090",
+            "id": "c316a0c819aa1084",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,19 +35,7 @@
             }
           },
           {
-            "id": "40db5a597aa29b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "793b0d3a2082bc02",
+            "id": "f7b63a4b519debd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a5bccaac6f937f2",
@@ -203,37 +185,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5b5f95eedc19090",
+  "active": "c316a0c819aa1084",
   "lastOpenFiles": [
+    "Mapas Mentais/Estrutura da Tese.canvas",
     "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
+    "Fichamentos/Ficha. Nathan Virgilio. Pensa que é só dar o de-comer.md",
+    "os gerais januarenses.md",
+    "As dominâncias dos espaços na casa.md",
+    "Iara Toscano. As folias e os reis em Januária.md",
+    "Fichamentos/Ficha. Nathan Virgilio. Brincando e Ajudando.md",
+    "Referências/Nathan Virgilio. Brincando e ajudando entre quintais e terreiros do povo quilombola de Alegre-MG.md",
+    "Referências/Nathan Virgilio. Pensa que é só dar de-comer.md",
+    "Uma grande tese.md",
+    "antigo centro comercial januarense.md",
     "Tese/Parte 01/Capítulo 01/P01-CAP01-01-As primeiras casas.md",
+    "fazer parentes.md",
+    "Howard Becker. A Escola de Chicago.md",
+    "Desejo de bem-estar material.md",
     "Notas de leitura/Notas permanentes/denominações nativas.md",
     "Referências/Antônio Bispo. A terra dá, a terra quer..md",
     "consciência coletiva.md",
     "Max Weber. Classe, Estamento e Partido..md",
     "Referências/Aron, Raymond. Les Étapes de la Pensée Sociologique.md",
     "Referências/Bateson, Gregory . Steps to an ecology of mind.md",
-    "Desejo de bem-estar material.md",
     "Noção estendida de casa.md",
-    "Gravação - Bad Parenting..canvas",
+    "Mapas Mentais/Gravação - Bad Parenting..canvas",
     "Referências/REF. Philippe Perrenoud e a  Teoria das Competências..md",
     "Referências/Ferdinand, Malcom. Uma Ecologia Decolonial..md",
     "Notas de leitura/Notas permanentes/dilúvio da modernidade.md",
-    "As dominâncias dos espaços na casa.md",
     "Diferenças.md",
-    "dispersal of houses.md",
-    "Gravação - Bad parenting.md",
     "Untitled.canvas",
-    "Referências/Norman, Ajari. La dignité ou la mort..md",
-    "Mapas Mentais/Estrutura da Tese.canvas",
-    "Referências/Valter Silvério, História Geral da África XVI - XX.md",
-    "Referências/Mayblin, Maya . Gender, Catholicism, and Morality in Brazil - Virtuous Husbands, Powerful Wives..md",
-    "Referências/Nathan Virgilio. Pensa que é só dar de-comer.md",
-    "Referências/Nathan Virgilio. Brincando e ajudando entre quintais e terreiros do povo quilombola de Alegre-MG.md",
-    "Referências/Norbert Elias. O Processo Civilizador.md",
-    "Referências/Pina Cabral. Filhos de Adão, filhas de Eva..md",
-    "Referências/Schneider, David M. A Critique of the Study of Kinship.md",
-    "Referências/SIMMEL, Georg. The Sociology of Conflict 1.md",
     "Untitled",
     "Mapas Mentais/Princípios Criativos dos Wayana.canvas",
     "Pasted image 20230710094600.png",

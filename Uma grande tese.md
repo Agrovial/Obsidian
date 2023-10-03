@@ -1,0 +1,1 @@
+para uma grande tese, é necessária uma grande crítica.
