@@ -1,8 +1,8 @@
 {
-  "accentColor": "#e60554",
-  "cssTheme": "Minimal",
+  "accentColor": "#f24040",
+  "cssTheme": "Blue Topaz",
   "theme": "moonstone",
-  "baseFontSize": 28,
+  "baseFontSize": 30,
   "interfaceFontFamily": "Calibri",
   "textFontFamily": "Calibri",
   "monospaceFontFamily": "Calibri"
