@@ -8,39 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9ab44afc2332ff7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mapas Mentais/Estrutura da Tese.canvas",
-                "viewState": {
-                  "x": 120.58015973145554,
-                  "y": -1479.4083461475666,
-                  "zoom": -1.0280216478434872
-                }
-              }
-            }
-          },
-          {
-            "id": "c316a0c819aa1084",
+            "id": "f7b63a4b519debd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro percurso a Januária.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7b63a4b519debd6",
+            "id": "3fac90231538b824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01-Primeiro Contato em Januária..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f95d114f204e84bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tese",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "7a5bccaac6f937f2",
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01-Primeiro Contato em Januária..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01-Primeiro Contato em Januária..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md"
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01-Primeiro Contato em Januária..md"
               }
             }
           },
@@ -177,18 +174,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "c316a0c819aa1084",
+  "active": "3fac90231538b824",
   "lastOpenFiles": [
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro percurso a Januária.md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01-Primeiro Contato em Januária..md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP02-01-As primeiras casas.md",
     "Mapas Mentais/Estrutura da Tese.canvas",
-    "Tese/Parte 01/Capítulo 01/P01-CAP01-00-Primeiros dias em Januária.md",
+    "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
     "Fichamentos/Ficha. Nathan Virgilio. Pensa que é só dar o de-comer.md",
     "os gerais januarenses.md",
     "As dominâncias dos espaços na casa.md",
@@ -198,7 +198,6 @@
     "Referências/Nathan Virgilio. Pensa que é só dar de-comer.md",
     "Uma grande tese.md",
     "antigo centro comercial januarense.md",
-    "Tese/Parte 01/Capítulo 01/P01-CAP01-01-As primeiras casas.md",
     "fazer parentes.md",
     "Howard Becker. A Escola de Chicago.md",
     "Desejo de bem-estar material.md",
@@ -213,13 +212,12 @@
     "Referências/REF. Philippe Perrenoud e a  Teoria das Competências..md",
     "Referências/Ferdinand, Malcom. Uma Ecologia Decolonial..md",
     "Notas de leitura/Notas permanentes/dilúvio da modernidade.md",
-    "Diferenças.md",
     "Untitled.canvas",
     "Untitled",
     "Mapas Mentais/Princípios Criativos dos Wayana.canvas",
     "Pasted image 20230710094600.png",
     "Tese/Parte 01",
-    "Tese/Parte 01/Capítulo 01",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo",
     "Mapas Mentais",
     "~$ganação.docx",
     "Enganação.docx"
