@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7b63a4b519debd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro percurso a Januária.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fac90231538b824",
+            "id": "0e9c4e946c92b3db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f95d114f204e84bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,12 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fac90231538b824",
+  "active": "0e9c4e946c92b3db",
   "lastOpenFiles": [
-    "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01-Primeiro Contato em Januária..md",
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro percurso a Januária.md",
     "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP02-01-As primeiras casas.md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro percurso a Januária.md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01-Primeiro Contato em Januária..md",
+    "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
     "Mapas Mentais/Estrutura da Tese.canvas",
     "Fichamentos/Ficha. Nathan Virgilio. Pensa que é só dar o de-comer.md",
     "os gerais januarenses.md",
