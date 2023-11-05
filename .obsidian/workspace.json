@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com o Alegre.md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com meu principal contato com Januária..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dd84f882d72ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8686a0257fcb82a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0b6d44f47b84122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96e18268abb5550d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fichamentos/Ficha. Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com o Alegre.md",
+                "file": "Fichamentos/Ficha. Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com o Alegre.md",
+                "file": "Fichamentos/Ficha. Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com o Alegre.md"
+                "file": "Fichamentos/Ficha. Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md"
               }
             }
           },
@@ -157,15 +206,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e9c4e946c92b3db",
+  "active": "96e18268abb5550d",
   "lastOpenFiles": [
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato em Januária.md",
+    "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
+    "Referências/Achille Mbembe. Necropolítica..md",
+    "Fichamentos/Ficha. Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
+    "Referências/Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
+    "Referências/Pierre Clastres. A Sociedade contra o Estado..md",
+    "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com meu principal contato com Januária..md",
+    "Tese/Parte 01/Capítulo 02 -/CAP02-01-As primeiras casas.md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md",
     "Mapas Mentais/Estrutura da Tese.canvas",
     "Mapas Mentais/Gravação - Bad Parenting..canvas",
-    "Tese/Parte 01/Capítulo 02 -/CAP02-01-As primeiras casas.md",
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com o Alegre.md",
     "Tese/Parte 01/Capítulo 02 -",
-    "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
     "Fichamentos/Ficha. Nathan Virgilio. Pensa que é só dar o de-comer.md",
     "os gerais januarenses.md",
     "As dominâncias dos espaços na casa.md",
@@ -182,11 +237,6 @@
     "Referências/Antônio Bispo. A terra dá, a terra quer..md",
     "consciência coletiva.md",
     "Max Weber. Classe, Estamento e Partido..md",
-    "Referências/Aron, Raymond. Les Étapes de la Pensée Sociologique.md",
-    "Referências/Bateson, Gregory . Steps to an ecology of mind.md",
-    "Noção estendida de casa.md",
-    "Referências/REF. Philippe Perrenoud e a  Teoria das Competências..md",
-    "Referências/Ferdinand, Malcom. Uma Ecologia Decolonial..md",
     "Untitled.canvas",
     "Mapas Mentais/Princípios Criativos dos Wayana.canvas",
     "Pasted image 20230710094600.png",
