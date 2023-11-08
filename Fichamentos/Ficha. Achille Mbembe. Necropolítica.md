@@ -19,8 +19,11 @@ Interessante essa ideia de soberania como um estado de recusa dos limites até m
 > <b> Política é a diferença colocada em jogo pela violação de um tabu </b> 127
 
 ***
-No segundo tópico, o autor trata mais detidamente da soberania enquanto direito de matar. 
-A questão racial como elementar para entender a soberania enquanto direito de matar. 128
+No segundo tópico, o autor trata mais detidamente da soberania enquanto direito de matar, isso após ter feito uma leitura da política como o trabalho da morte. O direito de matar do Estado de exceção, um Estado fundado nesse direito que apela a três pilares: a situação de exceção, a emergência e a noção ficcional do inimigo. 
+
+> <b> a questão é: Qual é, nesses sistemas, a relação entre política e morte que só pode funcionar em um estado de emergência? </b>128
+
+A questão racial como elementar para entender as práticas políticas ocidentais. 128
 
 > <b> em termos foucaultianos, racismo é acima de tudo uma tecnologia destinada a permitir o exercício do biopoder, “aquele velho direito soberano de morte”. </b>128
 
