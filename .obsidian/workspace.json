@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e9c4e946c92b3db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com meu principal contato com Januária..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dd84f882d72ffcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8686a0257fcb82a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0b6d44f47b84122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "96e18268abb5550d",
             "type": "leaf",
             "state": {
@@ -66,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8fcaf5d8aa92133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 292.5
   },
   "right": {
     "id": "7a5bccaac6f937f2",
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md"
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md"
               }
             }
           },
@@ -206,18 +170,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96e18268abb5550d",
+  "active": "d8fcaf5d8aa92133",
   "lastOpenFiles": [
-    "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
     "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com meu principal contato em Januária..md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
+    "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
     "Referências/Achille Mbembe. Necropolítica..md",
     "Fichamentos/Ficha. Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
     "Referências/Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
     "Referências/Pierre Clastres. A Sociedade contra o Estado..md",
     "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com meu principal contato com Januária..md",
     "Tese/Parte 01/Capítulo 02 -/CAP02-01-As primeiras casas.md",
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md",
     "Mapas Mentais/Estrutura da Tese.canvas",
     "Mapas Mentais/Gravação - Bad Parenting..canvas",
     "Tese/Parte 01/Capítulo 02 -",
@@ -236,7 +201,6 @@
     "Notas de leitura/Notas permanentes/denominações nativas.md",
     "Referências/Antônio Bispo. A terra dá, a terra quer..md",
     "consciência coletiva.md",
-    "Max Weber. Classe, Estamento e Partido..md",
     "Untitled.canvas",
     "Mapas Mentais/Princípios Criativos dos Wayana.canvas",
     "Pasted image 20230710094600.png",
