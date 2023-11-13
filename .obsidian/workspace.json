@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a5bccaac6f937f2",
@@ -173,9 +174,9 @@
   "active": "d8fcaf5d8aa92133",
   "lastOpenFiles": [
     "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
     "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com meu principal contato em Januária..md",
     "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md",
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
     "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
     "Referências/Achille Mbembe. Necropolítica..md",
     "Fichamentos/Ficha. Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
