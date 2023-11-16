@@ -1,9 +1,4 @@
 {
-  "accentColor": "#ce3827",
-  "cssTheme": "",
-  "theme": "system",
-  "baseFontSize": 25,
-  "interfaceFontFamily": "Calibri",
-  "textFontFamily": "Futura Bk BT",
-  "monospaceFontFamily": "Calibri"
+  "accentColor": "",
+  "baseFontSize": 21
 }

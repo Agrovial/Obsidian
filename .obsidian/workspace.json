@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "ee9f4afcfddc9927",
+    "id": "14bfbc9d025020a2",
     "type": "split",
     "children": [
       {
-        "id": "d5ddd009edafeff8",
+        "id": "94553b10a214c5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "96e18268abb5550d",
+            "id": "8d298ba838854258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8fcaf5d8aa92133",
+            "id": "63a6caad93871548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "747626839d768b5e",
+    "id": "23f1dbabee7f29a5",
     "type": "split",
     "children": [
       {
-        "id": "b6f200e26cf1e803",
+        "id": "3a4849eddb4ff69a",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c30cb922c867e1",
+            "id": "5aeee14259437598",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "e47b0afad33f227e",
+            "id": "e7a6f3ce825e9757",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "c4645d2a22810fb0",
+            "id": "988ccb72871cc93d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,24 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "7a5bccaac6f937f2",
+    "id": "599fc671b383bcbe",
     "type": "split",
     "children": [
       {
-        "id": "58dfc83ab3aab6e8",
+        "id": "4cb50bc0952bf8cf",
         "type": "tabs",
         "children": [
           {
-            "id": "c9099a720790a002",
+            "id": "299c56ed08a46e07",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +110,19 @@
             }
           },
           {
-            "id": "58a88af765fb1117",
+            "id": "10c5cba6617e5130",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3870f5438401f99c",
+            "id": "11ecfb25d16177f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,27 +133,16 @@
             }
           },
           {
-            "id": "fc54ec498f63f309",
+            "id": "c6f32d03bb5e44ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md"
-              }
-            }
-          },
-          {
-            "id": "a44f03dd5a9b1bf4",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,52 +151,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8fcaf5d8aa92133",
+  "active": "63a6caad93871548",
   "lastOpenFiles": [
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-04- O primeiro dia na casa de Dona Zilda e na comunidade. conhecendo as mulheres lutadeiras..md",
     "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-03- Primeiro contato com o Alegre e o com povo de Dona Zilda..md",
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com meu principal contato em Januária..md",
     "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-00-Primeiro contato com Januária.md",
-    "Fichamentos/Ficha. Achille Mbembe. Necropolítica.md",
-    "Referências/Achille Mbembe. Necropolítica..md",
-    "Fichamentos/Ficha. Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
-    "Referências/Foucault. Naissance de la Biopolitique. Leçon du 24 janvier 1979..md",
-    "Referências/Pierre Clastres. A Sociedade contra o Estado..md",
-    "Bourdieu. Campo do Poder, Campo Intelectual e Habitus de Classe..md",
-    "Tese/Parte 01/Capítulo 02 -/CAP02-01-As primeiras casas.md",
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-01- Primeiro contato com meu principal contato em Januária..md",
     "Mapas Mentais/Estrutura da Tese.canvas",
-    "Mapas Mentais/Gravação - Bad Parenting..canvas",
-    "Tese/Parte 01/Capítulo 02 -",
-    "Fichamentos/Ficha. Nathan Virgilio. Pensa que é só dar o de-comer.md",
-    "os gerais januarenses.md",
-    "As dominâncias dos espaços na casa.md",
-    "Iara Toscano. As folias e os reis em Januária.md",
-    "Fichamentos/Ficha. Nathan Virgilio. Brincando e Ajudando.md",
-    "Referências/Nathan Virgilio. Brincando e ajudando entre quintais e terreiros do povo quilombola de Alegre-MG.md",
-    "Referências/Nathan Virgilio. Pensa que é só dar de-comer.md",
-    "Uma grande tese.md",
-    "antigo centro comercial januarense.md",
-    "fazer parentes.md",
-    "Howard Becker. A Escola de Chicago.md",
-    "Desejo de bem-estar material.md",
-    "Notas de leitura/Notas permanentes/denominações nativas.md",
-    "Referências/Antônio Bispo. A terra dá, a terra quer..md",
-    "consciência coletiva.md",
-    "Untitled.canvas",
-    "Mapas Mentais/Princípios Criativos dos Wayana.canvas",
-    "Pasted image 20230710094600.png",
-    "Tese/Parte 01",
-    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo",
-    "Mapas Mentais",
-    "~$ganação.docx",
-    "Enganação.docx"
+    "Tese/Parte 01/Capítulo 01 - Em Busca de um Campo/CAP01-02- Primeiro contato com comunidades da zona rural de Januária..md"
   ]
 }
