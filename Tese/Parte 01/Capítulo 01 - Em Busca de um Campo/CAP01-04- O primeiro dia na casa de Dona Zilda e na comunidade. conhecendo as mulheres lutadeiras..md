@@ -1,4 +1,7 @@
 # CAP.01-04
-A reunião agendada para ocorrer na associação acabou sendo adiada por conta que Dona Zilda passou o resto da semana adoentada. Assim, passados sete dias desde meu primeiro dia no Alegre, estava eu de volta ao Alegre, dessa vez, por conta própria e para uma estadia de um dia. 
+A reunião agendada para ocorrer na associação acabaria sendo adiada pois Dona Zilda passaria o resto da semana adoentada. Por conta disso, meu retorno ao Alegre também teve que esperar um pouco. Apesar do contratempo, passados seis dias desde meu primeiro contato com o Alegre, estava eu de volta, dessa vez, por conta própria e para uma estadia de um dia. Como você notará, minha rotina de estadia na casa de Dona Zilda foi se tornando cada vez mais frequente conforme eu ganhava sua confiança. É assim que, apesar de sempre manter um quarto alugado na sede municipal, em certa altura de meu trabalho de campo, eu passava dias ou semanas seguidas na casa de Dona Zilda, indo à Januária apenas esporadicamente. Em outro momento do texto, pretendo refletir sobre essas idas e vindas entre o Alegre e a sede municipal. 
+
+
+
 
 {Nessa parte eu narro meu primeiro dia na comunidade, ressaltando como, para Dona Zilda, era importante fazer-me conhecido. No primeiro dia, ela fez questão de me levar à casa de alguns de seus conhecidos e parentes que vivem na comunidade, comentando sobre minha presença, sobre o que me levava até ali. Também será interessante para apresentar a comunidade ao próprio leitor ou leitora ao longo da caminhada com Dona Zilda. }
