@@ -1,2 +1,4 @@
 # CAP.01-04
+A reunião agendada para ocorrer na associação acabou sendo adiada por conta que Dona Zilda passou o resto da semana adoentada. Assim, passados sete dias desde meu primeiro dia no Alegre, estava eu de volta ao Alegre, dessa vez, por conta própria e para uma estadia de um dia. 
+
 {Nessa parte eu narro meu primeiro dia na comunidade, ressaltando como, para Dona Zilda, era importante fazer-me conhecido. No primeiro dia, ela fez questão de me levar à casa de alguns de seus conhecidos e parentes que vivem na comunidade, comentando sobre minha presença, sobre o que me levava até ali. Também será interessante para apresentar a comunidade ao próprio leitor ou leitora ao longo da caminhada com Dona Zilda. }
