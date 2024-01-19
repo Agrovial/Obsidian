@@ -1,5 +1,5 @@
 
-Luhmann descreve a sociedade moderna como um sistema complexo dec comunicação que se diferencia horizontalmente em uma rede (network) de subsistemas interconectados. 
+Luhmann descreve a sociedade moderna como um sistema complexo de comunicação que se diferencia horizontalmente em uma rede (network) de subsistemas interconectados. 
 Aqui o autor tenta fazer um link entre a teoria sociológica e a teoria de sistemas.
 ___
 O autor parte da tese de que há sistemas e que, portanto, uma teoria de sistemas não deve assumir que sistemas são modelos para análise de uma realidade, mas a realidade ela mesma, sendo qualquer realidade um sistema: 
@@ -10,7 +10,7 @@ Disso decorrem dois tipos de relações essenciais: a relação intrasistêmica 
 ___
 O autor se volta à aplicação da teoria geral de sistemas no sistema social pretendendo formular uma teoria de sistemas própria para sistemas sociais. O que se pode pegar da teoria geral de sistemas e aplicar na sociologia? O autor então parte para uma análise de conceitos básicos da teoria geral de sistemas buscando empregá-los na sociologia. 17
 ___
-**First law of systems: system-environment interdependence** . Systems are structured oriented by their Environment. A system are created by maintaing a difference from their Environment. That is, a system and its boundaries are constituted with their Environment. 
+**First law of systems: system-environment interdependence** . Systems are structured oriented by their Environment.  ==Systems are created by maintaing a difference from their Environment==. That is, a system and its boundaries are constituted with their Environment. ver [[Barth. Ethnic Groups and Boundaries]] 
 ___
 For two systems that relate with each other there are always three kinds of relations that conforms, themselves, a system: 
 System A <-> Environment for A == System A
