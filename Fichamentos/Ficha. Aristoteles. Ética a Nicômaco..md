@@ -1,0 +1,10 @@
+
+Aristóteles faz uma espécie de gradação ou pirâmide de todas as atividades e seus fins, sendo que, o fim ao qual todos os demais fins de todas as atividades se subordinam é o sumo bem.
+
+Por exemplo, a estratégia, enquanto atividade, tem como fim a vitória. Mas dentro da própria estratégia existem diversas outras atividades subordinadas com seus próprios fins. Na soma de todas as atividades temos a estratégia e na soma de todos os fins que compõem essas atividades, temos o fim último, que é a vitória. 
+
+A ideia de Aristóteles sobre o Estado na Ética a Nicômaco é que o Estado é uma comunidade política que visa o bem supremo da vida humana, que é a eudaimonia ou felicidade. O Estado é a forma mais perfeita e completa de associação humana, pois abrange todas as outras comunidades, como a família e a aldeia. O Estado é também natural, pois deriva da natureza social e racional do homem, que precisa viver em sociedade para realizar sua essência e sua virtude. **O Estado, portanto, não é uma convenção ou um contrato, mas uma necessidade natural.** 
+
+Segundo o pensamento aristotélico, o Estado é composto por cidadãos, que são aqueles que participam ativamente da vida política, exercendo os cargos públicos e as magistraturas. O cidadão é definido pela sua função, e não pela sua origem ou riqueza. O Estado é também uma forma de **constituição, que é a organização das funções e dos poderes do governo**. Aristóteles distingue **seis tipos de constituição, de acordo com o número de governantes** e o interesse que eles perseguem: monarquia, tirania, aristocracia, oligarquia, democracia e polícia. As três primeiras são justas, pois visam o bem comum, enquanto as três últimas são injustas, pois visam o bem privado. Aristóteles defende a polícia como a forma mais moderada e equilibrada de constituição, pois combina elementos da democracia e da oligarquia, e representa a classe média, que é a mais virtuosa e estável.
+
+Aristóteles define a ciência política como ciência que investiga o sumo bem, isto é, o fim último de todas as ações. E esse fim é a felicidade, ou bem viver. 
