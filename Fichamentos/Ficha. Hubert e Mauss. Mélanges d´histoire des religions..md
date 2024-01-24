@@ -5,3 +5,5 @@ Há dois tipos de sacrifício: o sacrifício de Deus e a Deus, sendo que, um nã
 
 >  Le sacrifice est un moyen pour le profane de communiquer avec le sacré par l'intermédiaire d'une victime 14
 
+
+
