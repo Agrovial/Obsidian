@@ -1,0 +1,1 @@
+Montesquieu, em [[Montesquieu. Espírito das Leis]] pretende tornar a história inteligível. Assim ele faz sociologia. Ou seja, busca as leis que regem a história. 

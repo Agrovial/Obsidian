@@ -1,0 +1,1 @@
+Como afirma [[Ficha.Iara Toscano. As folias e os reis em Januária]], o município de Januária compreende os chamados gerais, isto é, um extenso tabuleiro de terras planas recortados por veredas e córregos. 

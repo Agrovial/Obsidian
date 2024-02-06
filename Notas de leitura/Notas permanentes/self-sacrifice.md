@@ -1,0 +1,2 @@
+O que aproxima um revolucionário que se sacrifica pelo bem coletivo de uma líder comunitária como Dona Zilda: esse sacrifício de si pelo bem coletivo. [[Holbraad et al. Anthropologies of Revolution]]
+Outros aspectos que fazem um revolucionário: altruísmo, moralidade, devoção à causa (piety)

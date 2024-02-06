@@ -1,0 +1,1 @@
+Parece ser um objeto de estudo interessante. Como a pessoa é constituída através do parentesco? [[Janet Carsten. The heat of the hearth.]]e através das trocas? [[Strathern. O Gênero da Dádiva]] [[Marcel Mauss. Ensaio sobre a dádiva]]

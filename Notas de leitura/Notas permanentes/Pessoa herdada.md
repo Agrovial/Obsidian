@@ -1,0 +1,1 @@
+A pessoa herdada (ou tomada) entre os indígenas do Noroeste Americano (ver [[Mauss. A Noção de Pessoa.]]) está mais próxima, no contexto do Alegre, de uma líder religiosa, ou comunitária. Dona Zilda performa essa figura, essa pessoa. 

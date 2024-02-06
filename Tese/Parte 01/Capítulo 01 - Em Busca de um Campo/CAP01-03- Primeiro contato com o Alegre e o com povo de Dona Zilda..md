@@ -1,3 +1,4 @@
+[[Nathan Virgílio. Tese]]
 # CAP.01-03
 Liguei para Lennon muito cedo pela manhã. Ao me responder, informou que iniciaríamos as visitas em vinte minutos. Tive tempo apenas de tomar um rápido banho, pegar meu caderno de anotações e esperá-lo em frente ao hotel onde estava hospedado. As visitas do dia seriam feitas de moto, em comunidades de mais fácil acesso, isto é, que se situavam à beira da rodovia federal 135, que liga Januária a Itacarambi. Foi nesse dia que visitei o Alegre pela primeira vez, além de comunidades vizinhas como o Barreiro do Alegre.
 

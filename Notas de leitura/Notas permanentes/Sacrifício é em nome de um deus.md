@@ -1,0 +1,1 @@
+*On en offre toujours une partir (de la tortue) au conseil des dieux, en la portant à la rivière. C'est donc bien un sacrifice* [[Hubert e Mauss. Melanges d´histoire des religions]]

@@ -1,4 +1,4 @@
-
+[[Nathan Virgílio. Tese]]
 #tese 
 
 Minha primeira viagem ao município de Januária não me conduziu diretamente aos meus primeiros dias na comunidade quilombola do Alegre, a qual se tornaria o foco de minha pesquisa de campo. Algumas semanas tiveram que se passar com andanças pela região, contatos firmados, com lugares visitados e ainda indecisão em relação a meu objeto de pesquisa. Na verdade, somente consegui estabelecer as primeiras interações com os moradores do Alegre quase dois meses após minha primeira visita a Januária. Só então dei início às primeiras visitas dentro da própria comunidade, comecei a participar de brincadeiras com as crianças e ajudar em alguns afazeres dos adultos, em especial, os afazeres que surgiam no e a partir do terreiro de Dona Zilda, a líder comunitária que me abrigou em sua casa.

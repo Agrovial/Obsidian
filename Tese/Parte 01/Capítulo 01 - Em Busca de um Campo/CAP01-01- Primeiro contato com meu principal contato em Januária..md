@@ -1,4 +1,4 @@
-
+[[Nathan Virgílio. Tese]]
 #tese 
 
 Vindo de uma pesquisa de campo em uma comunidade de pequenos produtores rurais do Ceará, onde vivem vários de meus parentes maternos, as experiências que eu teria no Norte de Minas partiriam de uma entrada de campo nova para mim <font color = "red"> "''''add nota sobre a indicação do orientador"'''' </font>. Mas nova não somente no sentido de me levar a outra trajetória de pesquisa, a novos relacionamentos densos com outras alteridades.  Dessa vez, eu chegaria a lugares como alguém que não tem parente ou conhecido por ali. Eu chegaria a Januária, ao Alegre e às demais localidades rurais como uma pessoa desconhecida, como um estranho. 

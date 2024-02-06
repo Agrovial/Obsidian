@@ -1,0 +1,1 @@
+*Elles sont les autres nousmêmes des korkokshi* [[Hubert e Mauss. Melanges d´histoire des religions]] p. 8

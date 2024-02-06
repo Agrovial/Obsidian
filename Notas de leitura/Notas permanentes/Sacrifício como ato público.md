@@ -1,0 +1,1 @@
+Interessante colocação de que todo sacrifício precisa ser um ato público. [[Hubert e Mauss. Melanges d´histoire des religions]] 14
