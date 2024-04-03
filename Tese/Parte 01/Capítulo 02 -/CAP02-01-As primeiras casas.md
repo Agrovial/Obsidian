@@ -10,11 +10,7 @@ Com as crianças já sentadas no chão da sala e almoçando, somente então Val 
 
 Seu Raul e sua filha caçula, Cristina, chegariam em casa pouco depois. Juntando-se às crianças na sala, porém sentados em cadeiras, pouco participaram da conversa entre Dona Zilda, Val e eu. No mais daz vezes, apenas ouviam e faziam comentários esporádicos, especialmente Cristina. Durante meus primeiros meses no Alegre, Seu Raul se mostrou bem mais distante do que Dona Zilda e seus parentes, parecendo guardar por longo tempo reticências e suspeitas acerca de minha presença em sua casa. 
 
-"A maioria do pessoal daqui, eles moravam mais na beira do rio. Daqui a cinco 
-quilômetros, né? Aí, depois, de acordo… é que naquela época chovia bastante, né? Aí, o 
-pessoal foi vindo de lá pra cá por causa das enchentes... E aí, acabaram todo mundo 
-comprando lote aqui, acabaram acumulando aqui. Então, hoje, a maioria desse povo que 
-morava na beira do rio, moram tudo aqui no Alegre. Essa terra aqui foi comprada com farinha, com farinha torrada no caco..."
+"A maioria do pessoal daqui, eles moravam mais na beira do rio. Daqui a cinco quilômetros, né? Aí, depois, de acordo… é que naquela época chovia bastante. Aí, o pessoal foi vindo de lá pra cá por causa das enchentes... E aí, acabaram todo mundo comprando lote aqui, acabaram acumulando aqui. Então, hoje, a maioria desse povo que morava na beira do rio, mora tudo aqui no Alegre. Essa terra aqui foi comprada com farinha, com farinha torrada no caco..."
 
 Durante meu primeiro almoço 
 
