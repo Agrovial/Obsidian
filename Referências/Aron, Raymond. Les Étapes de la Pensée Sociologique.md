@@ -30,3 +30,6 @@ ___
 Na obra *Les Régles de la méthode sociologique* Durkheim abstrai a teoria sociológica que dinamiza sua Divisão do Trabalho Social, o Suicídio e Formas Elementares da Vida Religiosa. Em todas essas obras há uma prioridade da sociedade sobre os fenômenos individuais. Está aí o princípio de sua sociologia. 
 ___
 Em sua tentativa de fornecer status científico às suas análises, Durkheim precisa encontrar tanto um objeto quanto um método de explicação e observação desse objeto. O objeto é o fato social. 363
+___
+
+Montesquieu quer entender as leis causas das jurisprudências, o que leva a uma constituição específica em um país. Montesquieu cherche donc les lois-causales, qui rendent compte des lois-commandements (les lois qui sont un commandement du législateur) 
