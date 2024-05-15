@@ -3,9 +3,10 @@ FICHAMENTO: VÁZQUEZ, Adolfo Sánchez. Ética (2004). Rio de Janeiro: Civilizaç
 
 _Cap. 01 – Objeto da Ética._
 
-|   |
-|---|
-|Problemas práticos            Normas Morais<br><br>  Possível solução              Juízo  Aprovada ou desaprovada. <br><br>As ações sociais são resoluções de problemas morais e/ou julgamentos sobre as resoluções feitas por si e pelos outros.|
+|                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Problemas práticos            Normas Morais<br><br>  Possível solução              Juízo  Aprovada ou desaprovada. <br><br>As ações sociais são resoluções de problemas morais e/ou julgamentos sobre as resoluções feitas por si e pelos outros. |
+|                                                                                                                                                                                                                                                   |
 
 Segundo Vázquez, os indivíduos se deparam, em seu dia-a-dia, com _problemas práticos,_ que se apresentam nas relações sociais e que envolvem, dependendo de seu desfecho, consequências para outras pessoas. Para resolver tais problemas, as pessoas baseiam-se em certo conjunto de normas. > p. 15, 16.
 
@@ -19,7 +20,7 @@ PROBLEMA PRÁTICO MORAL VS PROBLEMA TEÓRICO-ÉTICO.
 
 A ética apenas analisa o que seria, em geral, um comportamento em acordo com as normas e que normas seriam essas. É já uma filosofia, uma ramificação desta, uma área de estudo da moral. > p. 17.
 
-A solução dos problemas práticos-morais fica a cargo do indivíduo para o qual tal problema se apresenta. A investigador (Ético) cabe apenas definir o que é o bom e se certo indivíduo agiu de forma boa.
+A solução dos problemas práticos-morais fica a cargo do indivíduo para o qual tal problema se apresenta. ==Ao investigador (Ético) cabe apenas definir o que é o bom e se certo indivíduo agiu de forma boa.==
 
 O problema da responsabilidade, ou seja, o indivíduo responde pelos seus atos pois ele teve a possibilidade de escolher entre realizá-los ou não. Junto com a responsabilidade vem, portanto o problema da liberdade. O sujeito é livre para ter agido como agiu? > p. 18.
 
@@ -27,16 +28,14 @@ O problema da responsabilidade, ou seja, o indivíduo responde pelos seus atos p
 
 *A ética é teoria, investigação ou explicação de um tipo de experiência humana ou forma de comportamento dos homens, o da moral, considerado porém na sua totalidade, diversidade e variedade.* p. 21 
 
-Para Vázquez, a Ética é uma ciência:* La etica es la teoria o ciencia del comportamiento moral de* 
-*los hombres en sociedad * 22
+Para Vázquez, a Ética é uma ciência: La etica es la teoria o ciencia del comportamiento moral de
+*los hombres en sociedad  22
 
 Quando agimos socialmente, sempre resolvemos problemas práticos ou aplicamos uma resolução que funcionou em outras ocasiões a ocasiões parecidas, isso de forma quase irrefletida. Para resolver esses problemas, os indivíduos levam em conta um conjunto provável de consequências e, diante de tal conjunto, agem de forma a fortificar e/ou manter certa estrutura de relações que travam com outros entes, ou seja, com humanos e não-humanos. Também as resoluções podem ter em vista a modificação da estrutura das relações.
 
 
 
-Quanto mais inusitada a situação na qual o indivíduo se encontra, mais difícil será prever as consequências de suas ações na rede de relações e, portanto, tais situações são tensas. Certas situações são tão inusitadas que, mesmo após vários anos de experiência na resolução de problemas práticos, o indivíduo se vê desmuniciado de boas formas de resolução. De qualquer forma, cada nova situação implica novo aprendizado e maior trato e sabedoria em situações práticas que surgirem posteriormente.
-
-Problema: E no caso de um indivíduo que mate sua ex-mulher, por exemplo? Como essa ação se relacionaria com a intenção para com a estrutura das relações? Talvez seja o caso de analisar essa estrutura, as normas e o indivíduo. Como estas coisas estão envolvidas nas soluções de problemas práticos? 
+Quanto mais inusitada a situação na qual o indivíduo se encontra, mais difícil será prever as consequências de suas ações na rede de relações e, portanto, tais situações são tensas. Certas situações são tão inusitadas que, mesmo após vários anos de experiência na resolução de problemas práticos, o indivíduo se vê desmuniciado de boas formas de resolução. De qualquer forma, cada nova situação implica novo aprendizado e maior trato e sabedoria em situações práticas que surgirem posteriormente. 
 
 **02. O CAMPO DA ÉTICA**
 
