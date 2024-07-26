@@ -1,4 +1,4 @@
-O livro traz histórias diversas contadas por moradores do norte de minas. Estou lendo o livro pelo motivo de buscar dados que me ajudem a pensar as histórias enquanto história do parentesco. Também poderá me ser útil histórias sobre infâncias de "antigamente", isto é, como a infância é pensada hoje pelos adultos tendo em vista a infância que viveram. 
+O livro traz histórias diversas contadas por moradores do norte de minas. Estou lendo o livro pelo motivo de buscar dados que me ajudem a pensar as histórias enquanto história do parentesco. Também poderá ser útil histórias sobre infâncias de "antigamente", isto é, como a infância é pensada hoje pelos adultos tendo em vista a infância que viveram. 
 
 Um antigamente ideal que foi desfeito por um agente externo, no caso, pelo Estado. p. 62
 

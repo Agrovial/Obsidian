@@ -1,6 +1,6 @@
 [[Lévi-Strauss. O Cru e o Cozido.]]
 
-A obra se propõe a "aplicar a análise estrutural a um material específ 3ico: mitos dos índios das Américas" posição 54. 
+A obra se propõe a "aplicar a análise estrutural a um material específico: mitos dos índios das Américas" posição 54. 
 
 O livro parte do pressuposto da universalidade do pensamento humano: "é preciso acatar os pressupostos de que o pensamento daqueles que chamamos humanos opera segundo regras compartilhadas e de que o que muda na enorme diversidade de culturas humanas é a matéria do que é pensado" pos. 74
 
