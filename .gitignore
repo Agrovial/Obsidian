@@ -1,0 +1,9 @@
+# Arquivos internos do Obsidian (não são conteúdo)
+.obsidian/workspace.json
+.obsidian/cache
+
+# Plugins que não devem ser versionados
+.obsidian/plugins/obsidian-git
+
+# Arquivos do macOS
+.DS_Store
