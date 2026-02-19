@@ -1,4 +1,11 @@
-# Arquivos internos do Obsidian (não são conteúdo)
+# Ignorar tudo do Obsidian
+.obsidian/
+
+# Evitar vaults aninhados
+**/.obsidian/
+
+# Arquivos do macOS
+.DS_Store# Arquivos internos do Obsidian (não são conteúdo)
 .obsidian/workspace.json
 .obsidian/cache
 
